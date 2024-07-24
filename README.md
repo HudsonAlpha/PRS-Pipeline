@@ -27,6 +27,8 @@ If you are using a different GWAS table, you may need to change the numbers for 
 
 Additionally, you may need to change the column names following some PRSice-2 flags (snp, a1, pvalue, stat) and lassosum flags (chr, pos, A1, pval, beta) to your corresponding GWAS column names.
 
+The attached yml file can be used to create the micromamba environment with the version of R and R packages that were used to run this script originally.
+
 You may need to adjust the prs_analysis_all_fam Rscript in order to load ggplot2, dplyr, and ggpubr R packages properly.
 
 ## Usage
