@@ -9,7 +9,7 @@ This Bash script generates and analyzes three sets of Polygenic Risk Scores (PRS
 - lassosum (version 0.4.5)
 
 ## Installation
-Change hard coded paths to PLINK, PRSice-2, lassosum executables to your correct paths. 
+Change hard coded paths to PLINK, PRSice-2, lassosum, and Rscript prs analysis executables to your correct paths. 
 
 GWAS tables must have the following information:
 - variant
